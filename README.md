@@ -1,4 +1,4 @@
-## Hello Hello 👋
+## Hello Hello, Myself JASWANTH INTI 👋
 
 M.Sc. (Hons.) Physics student learning scientific Python 🧪🐍
 
