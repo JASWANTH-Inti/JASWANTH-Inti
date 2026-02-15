@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello Hello 👋
 
-<!--
-**JASWANTH-Inti/JASWANTH-Inti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. (Hons.) Physics student learning scientific Python 🧪🐍
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- C++
+- Jupyter Notebook
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+Scientific Python Starter Quest  
+➡️ https://github.com/JASWANTH-Inti/python-physics-toolbox-Jaswanth
